@@ -21,7 +21,7 @@ Wireframes are used to see UX, basically the way user will interact with the app
 
 ## Mockup - High Fidellity
 A high fidellity design will mostly be recognized as a Mock up, this is the way the app will look, colors, fonts used, etc.
-![Mockup](Documentation/WFMock/TSALite-HighFidelityV1.mp4)
+![Mockup](Documentation/WFMock/TSALite-HighFidelityV1.gif)
 
 
 ## Made with
