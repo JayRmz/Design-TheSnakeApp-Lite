@@ -16,14 +16,16 @@ Wireframes are used to see UX, basically the way user will interact with the app
 ![Lobby](Documentation/WFMock/Lobby.png)
 
 ### Snake Detail
-![Lobby](Documentation/WFMock/SDet.png)
+![SNAKEDETAIL](Documentation/WFMock/SDet.png)
 
 
 ## Mockup - High Fidellity
 A high fidellity design will mostly be recognized as a Mock up, this is the way the app will look, colors, fonts used, etc.
+![Mockup](Documentation/WFMock/TSALite-HighFidelityV1.mp4)
+
 
 ## Made with
 * [AdobeXd](https://www.adobe.com/mx/products/xd.html) - Adobe Xd
 
 ## Author 
- **Jay Ramirez** - *Initial work* - [PurpleBooth](https://github.com/JayRmz)
+ **Jay Ramirez**  [MoreRepos](https://github.com/JayRmz)
